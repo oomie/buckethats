@@ -1,0 +1,52 @@
+
+body {
+  margin: 25px;
+  font-family: 'Short Stack',cursive;
+  text-align: center;
+  align-content: center;
+  background-color: #E9C8C4
+
+}
+.list {
+/* margin-left: auto;
+  margin-right: auto; */
+  position: relative;
+}
+.list table {
+position: absolute;
+top: 0;
+left: 50%;
+transform: translate(-50%,0);
+}
+
+.logo {
+margin-left: 100px;
+margin-right: 100px;
+
+
+}
+
+
+.mains {
+font-family: 'Short Stack',cursive;
+font-size: 100 px;
+display: inline-block;
+align-content: center;
+
+}
+
+.homepage {
+  display: inline;
+align-content: center;
+}
+
+.insta {
+  align-content: center;
+  display: inline;
+}
+
+.socials {
+align-content: center;
+display: inline;
+
+}
