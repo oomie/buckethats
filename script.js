@@ -27,7 +27,7 @@ if (eva) {
 
 if (sakura) {
   sakura.addEventListener("mouseenter" , function(){
-    sakura.src="images/sakuraB.jpg";
+    sakura.src="images/sakuraB.JPG";
   });
     sakura.addEventListener("mouseleave" , function(){
       sakura.src="images/sakuraW.JPG";
