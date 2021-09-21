@@ -7,13 +7,28 @@ body {
   background-color: #E9C8C4
 
 }
+
+.link {
+text-decoration: none;
+
+}
+
+.link:hover {
+
+}
+
+.link:visited{
+  color:   #986265;
+}
+
+
 .list {
 /* margin-left: auto;
   margin-right: auto; */
   position: relative;
 }
 .list table {
-position: absolute;
+position: relative;
 top: 0;
 left: 50%;
 transform: translate(-50%,0);
@@ -30,8 +45,8 @@ margin-right: 100px;
 .mains {
 font-family: 'Short Stack',cursive;
 font-size: 100 px;
-display: inline-block;
-align-content: center;
+display:block;
+text-align: center;
 
 }
 
@@ -47,6 +62,6 @@ align-content: center;
 
 .socials {
 align-content: center;
-display: inline;
+display: block;
 
 }
