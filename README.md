@@ -1,5 +1,4 @@
 # oomie.github.io
-commlab website
 Bucket Hats!™ 
 My partner Eva and I made a bucket hat commercial for our 30MFF! So, I decided to make an online store as my website! I tried to create a brand, and even designed a few products!! It was really fun making the logo and the products :]
 
